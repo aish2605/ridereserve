@@ -114,11 +114,11 @@ ticket.text(message, centerX, 160);
         <div className="main">
               <header className="header">
                 <img src="./logo.png" width="200" height="100" style={{borderRadius:'12px'}}/>
-                <h1  width="400"style={{color:"#ca5f98", letterSpacing:'7px', textAlign:'center',fontSize:'50px'}}>RideReserve</h1>
+                <h1  width="400"style={{color:"#ca5f98", letterSpacing:'5px', textAlign:'center',fontSize:'50px'}}>RideReserve</h1>
               </header>
 
               <div className='ticket'>
-                    <h2 style={{fontSize:'32px', color:'#752851',letterSpacing:'7px', flexWrap:'wrap'}}>Book your ticket</h2>
+                    <h2 style={{fontSize:'25px', color:'#752851',letterSpacing:'5px', flexWrap:'wrap'}}>Book your ticket</h2>
 
                     <div className='form'>
                     
