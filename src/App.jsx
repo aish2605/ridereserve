@@ -54,7 +54,7 @@ function App() {
               
             ticket.setLineWidth(0.5);
               // Logos
-             ticket.addImage(logoBase64, 'PNG', 12, 12, 30,25); // Left logo
+             ticket.addImage(logoBase64, 'PNG', 12, 12, 30,25); // Left l
             
               // Center icon or name
               ticket.setFontSize(23);
